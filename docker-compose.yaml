@@ -9,6 +9,7 @@ services:
       TZ: Asia/Tokyo
     ports:
       - "9000:5000"
+      - "3000:3000"
     volumes:
       - .:/root/project
   # mysql:
