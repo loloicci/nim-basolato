@@ -5,11 +5,11 @@ Migration
 Table of Contents
 
 <!--ts-->
-   * [Migration](documents/migration.md#migration)
-      * [Introduction](documents/migration.md#introduction)
-      * [Example](documents/migration.md#example)
+   * [Migration](migration.md#migration)
+      * [Introduction](migration.md#introduction)
+      * [Example](migration.md#example)
 
-<!-- Added by: runner, at: Wed Jul 29 09:34:27 UTC 2020 -->
+<!-- Added by: runner, at: Thu Jul 30 09:22:36 UTC 2020 -->
 
 <!--te-->
 

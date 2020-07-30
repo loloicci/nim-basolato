@@ -5,15 +5,15 @@ Security
 Table of Contents
 
 <!--ts-->
-   * [Security](documents/security.md#security)
-      * [Check in middleware](documents/security.md#check-in-middleware)
-         * [CSRF Token](documents/security.md#csrf-token)
-      * [Cookie](documents/security.md#cookie)
-         * [API](documents/security.md#api)
-      * [Session](documents/security.md#session)
-      * [Auth](documents/security.md#auth)
+   * [Security](security.md#security)
+      * [Check in middleware](security.md#check-in-middleware)
+         * [CSRF Token](security.md#csrf-token)
+      * [Cookie](security.md#cookie)
+         * [API](security.md#api)
+      * [Session](security.md#session)
+      * [Auth](security.md#auth)
 
-<!-- Added by: runner, at: Wed Jul 29 09:34:29 UTC 2020 -->
+<!-- Added by: runner, at: Thu Jul 30 09:22:37 UTC 2020 -->
 
 <!--te-->
 

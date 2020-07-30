@@ -5,12 +5,12 @@ Middleware
 Table of Contents
 
 <!--ts-->
-   * [Middleware](documents/middleware.md#middleware)
-      * [Routing middleware](documents/middleware.md#routing-middleware)
-      * [Controller middleware](documents/middleware.md#controller-middleware)
-      * [How to update responce in middleware](documents/middleware.md#how-to-update-responce-in-middleware)
+   * [Middleware](middleware.md#middleware)
+      * [Routing middleware](middleware.md#routing-middleware)
+      * [Controller middleware](middleware.md#controller-middleware)
+      * [How to update responce in middleware](middleware.md#how-to-update-responce-in-middleware)
 
-<!-- Added by: runner, at: Wed Jul 29 09:34:27 UTC 2020 -->
+<!-- Added by: runner, at: Thu Jul 30 09:22:36 UTC 2020 -->
 
 <!--te-->
 
